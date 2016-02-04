@@ -8,7 +8,7 @@ A simple Farbox template with great performance on different devices.
 
 
 ###Maupassant on different platform:
-
++ GanNingBlog: http://ganning.xyz
 + Typecho：https://github.com/pagecho/maupassant/
 + Octopress：https://github.com/pagecho/mewpassant/
 + Farbox：https://github.com/pagecho/Maupassant-farbox/
