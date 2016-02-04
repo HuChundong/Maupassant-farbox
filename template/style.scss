@@ -158,6 +158,8 @@ a:focus{
 .post {
 	padding: 25px 0 15px;
 	.post-title {
+		border-left: 5px solid #9B9B9B;
+        padding-left: 10px;
 		margin: 0;
 		color: #555;
 		text-align: left;
@@ -210,8 +212,10 @@ a:focus{
 			position: relative;
 		}
 		img {
+			border-radius: 5px;
 			max-width: 100%;
-			padding: 1em 0;
+			padding: 0 0;
+			margin: 1em 0 1em 0;
 		}
 		ul, ol {
 			overflow: auto;
